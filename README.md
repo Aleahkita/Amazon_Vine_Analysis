@@ -10,18 +10,18 @@ The apparel dataset was first imported into a Google colab notebook and read int
 
 ## Results
 
-![Vine_df]()
+![Vine_df](https://github.com/Aleahkita/Amazon_Vine_Analysis/blob/main/Images/vine_reviews_df.png)
 
-![Vine_results]()
+![Vine_results](https://github.com/Aleahkita/Amazon_Vine_Analysis/blob/main/Images/vine_results.png)
 
 - There were 33 total Vine (paid) reviews
 - Out of the total, 15 were 5-star reviews
 - 45.45% of Vine reviews were 5-stars
 
 
-![not_Vine_df]()
+![not_Vine_df](https://github.com/Aleahkita/Amazon_Vine_Analysis/blob/main/Images/not_vine_reviews_df.png)
 
-![not_Vine_results]()
+![not_Vine_results](https://github.com/Aleahkita/Amazon_Vine_Analysis/blob/main/Images/not_vine_results.png)
 
 - There were 45388 total non-Vine (unpaid) reviews
 - Out of the total, 23733 were 5-star reviews
